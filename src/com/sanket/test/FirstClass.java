@@ -5,4 +5,7 @@ public class FirstClass {
 		System.out.println("In Main Method");
 	}
 
+	public void inSecond() {
+		System.out.println("In Second Method");
+	}
 }
