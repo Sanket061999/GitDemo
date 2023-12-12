@@ -1,4 +1,5 @@
 package com.sanket.test;
+
 public class FirstClass {
 
 	public void inMain() {
@@ -7,5 +8,9 @@ public class FirstClass {
 
 	public void inSecond() {
 		System.out.println("In Second Method");
+	}
+
+	public void inThirdDevelopBrach() {
+		System.out.println("From Brach");
 	}
 }

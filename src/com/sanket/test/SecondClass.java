@@ -5,6 +5,7 @@ public class SecondClass {
 		FirstClass f= new FirstClass();
 		f.inMain();
 		f.inSecond();
+		f.inThirdDevelopBrach();
 
 	}
 
